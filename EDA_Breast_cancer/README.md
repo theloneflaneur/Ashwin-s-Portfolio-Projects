@@ -1,4 +1,4 @@
-# Breast-Cancer-EDA-using-Seaborn
+# Wisconsin Breast Cancer Classification 
 
 
 Using Logistic regression to classify between Malignant and Benign tumors on the Wisconsin Breast Cancer Dataset.  <a href="https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29">Breast Cancer Diagnostic data</a> is available on the UCI Machine Learning Repository.
