@@ -1,7 +1,7 @@
 # Breast-Cancer-EDA-using-Seaborn
 
 
-The project aims to perform Exploratory Data Analysis (EDA) on Breast cancer Diagnostic data. We aim to use seaborn for data visualization and understanding how different parameters of data correlate. <a href="https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29">Breast Cancer Diagnostic data</a> is available on the UCI Machine Learning Repository.
+Using Logistic regression to classify between Malignant and Benign tumors on the Wisconsin Breast Cancer Dataset.  <a href="https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29">Breast Cancer Diagnostic data</a> is available on the UCI Machine Learning Repository.
 
 
 Why is addressing Breast cancer so important ?
