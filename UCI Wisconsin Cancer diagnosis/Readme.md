@@ -15,4 +15,4 @@ From the Exploratory Data Analysis, a few characteristics of the data are abunda
 1. Many parameters correlate deeply. 
 2. An interesting find was regarding 'Fractal Dimension'. 'Fractal Dimension' has been considered as a sign of progression of Breast cancer and therefore, an important feature in the  diagnosis of cancer. However, data exploration and visualization suggests that it is not deeply correlated with other features. A research paper published by NCBI suggests alongs the same lines that the Medical acceptance of Fractal Dimension as a feature remains inconclusive. (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6349609/). 
 3. Smoothness and Symmetry did not turn out to be a key feature and have less correlation with KPIs. 
-4. Tumors were classified as Malignant and Benign with about 97% accuracy.
+4. Tumors were classified as Malignant or Benign with satisfactory results. 
