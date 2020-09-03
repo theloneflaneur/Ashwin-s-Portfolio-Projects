@@ -20,3 +20,5 @@ My objectives were as follows  :
      analysis and interactive graphs help in gaining a lot of information out of a simple graph. 
   5. I used Support vector regression for the predictions. It seemed like an obvious choice since we have a data that is continuous across months and very much dependent on the 
      previous data values. I used a simple matplotlib and plotly graph to project the rise of cases and recoveries. I have done the preedictions till 30th of August 2020. 
+
+Future updates : The project will be updated later. I am currently working on deploying this project using Flask. 
