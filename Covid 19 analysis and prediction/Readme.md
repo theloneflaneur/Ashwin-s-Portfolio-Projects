@@ -1,4 +1,4 @@
-Welcome to Covid - 19 analysis and prediction ! 
+Welcome to Covid - 19 analysis and prediction ! Link to this project on portfolio blog : https://mlwithashwin.wordpress.com/2020/09/16/covid-19-data-analysis-and-prediction-project/
 
 This project uses John Hopkins's daily covid data ( https://github.com/CSSEGISandData/COVID-19 ) . For the purposes of the project, only the data till 12th July.
 
