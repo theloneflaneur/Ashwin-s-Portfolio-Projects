@@ -8,9 +8,9 @@ files were of immense importance to the project as other two files were related 
 My objectives were as follows  : 
  1. Explore the data 
  2. Analyse the data to derive insights into covid 19 confirmed cases, active cases, recoveries and fatalities. 
- 3. Once the analysis done for the global data, I must write a function tha analyzes the same for any specific country mentioned in our data. 
- 4. All the visualizations should be easy to uderstand and convey the very specific objectives I have accomplished. 
- 5. Predict the rise in Confirmed cases and recoveries for the gloabl data. 
+ 3. Once the analysis done for the global data, I must write a function that analyzes the same for any specific country mentioned in our data. 
+ 4. All the visualizations should be easy to understand and convey the very specific objectives I have accomplished. 
+ 5. Predict the rise in Confirmed cases and recoveries for the global data. 
  
  How I have set out to accomplish these 5 objectives  :
   1. I have explored the data, convereted the date from string to datetime type. 
